@@ -3,7 +3,7 @@
 ## Veremos abaixo as ferramentas utilizadas
 
 <p align="center">
-<img src=logoubuntu.png width=100 height=100><img src=logovirtualbox.png width=100 height=100><img src=logovscode.png width=100 height=100><img src=logogit.png width=100 height=100><img src=logocockpit.png width=100 height=100><img src=logolinguagemc.png width=100 height=100>
+<img src=logoubuntu.png width=100 height=100> <img src=logovirtualbox.png width=100 height=100> <img src=logovscode.png width=100 height=100> <img src=logogit.png width=100 height=100> <img src=logocockpit.png width=100 height=100> <img src=logolinguagemc.png width=100 height=100>
 </p>
 Foram usadas as seguintes ferramentas para o desenvolvimeto da atividade:
 
