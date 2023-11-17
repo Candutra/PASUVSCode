@@ -2,6 +2,8 @@
 
 ## Veremos abaixo as ferramentas utilizadas
 
+!["logo ubuntu](logoubuntu.png)
+
 Foram usadas as seguintes ferramentas para o desenvolvimeto da atividade:
 
 - Download  do sistema operacional linux
@@ -13,4 +15,4 @@ Foram usadas as seguintes ferramentas para o desenvolvimeto da atividade:
 - Instalação do git
 - Instalação do gcc
 - Configuração de portas no Virtual Box
-- acesso via SSh no VSCode
+- acesso via SSH no VSCode
