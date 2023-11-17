@@ -23,3 +23,11 @@ O Ubuntu Server é uma distribuição GNU/Linux que é mantida pela empresa cano
 Para fazer o download clique no link abaixo
 
 <a href="https://ubuntu.com/download/server">Ubuntu Server 22.04 </a>
+
+
+### Virtual Box
+VirtualBox é um software de virtualização de código aberto desenvolvido pela Oracle, que permite criar e executar máquinas virtuais em um computador físico.
+
+Assim, o software emula um computador completo, incluindo sistemas operacionais e aplicativos.
+
+<a href="https://www.virtualbox.org/wiki/Downloads">Virtual Box </a>
